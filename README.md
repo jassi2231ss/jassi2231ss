@@ -1,5 +1,5 @@
-<h1><p align="center">Hello, I'm Amit Kumar Shaw <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
-<h3 align="center">A Proud Indian | Mechanical Engineer | AutoCad Designer | Fusion 360 Designer</h3>
+<h1><p align="center">Hello, I'm Jasmeet Kaur img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+<h3 align="center">A Proud Indian | Computer Science Engineer </h3>
 
 <p align="right">
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/devbadge.gif" width="40" height="40"></a>  <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/acervenky/acervenky/master/assets/acbadge.gif" width="40" height="40"></a> 
@@ -15,11 +15,11 @@
 
 - 🔭 I'm working on some secret stuff.
 - 🌱 I’m currently learning React and ES6.
-- 💼 I’m pursuing a Bachelor's degree in Mechanical Engineering.
-- 👯 I’m looking to collaborate on CAD/CAM Designing Projects.
+- 💼 I’m pursuing a Bachelor's degree in Computer Science & Engineering.
+- 👯 I’m looking for challenges.
 - 🤔 I’m looking for help with React.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [shawamit393@gmail.com](mailto:shawamit393@gmail.com).
+- 📫 Email me at [jassi2231ss@gmail.com](mailto:jassi2231s@gmail.com).
 
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
@@ -41,8 +41,8 @@
    <i>You miss 100% of the shots you don't take.</i>
    <br>
 <br>	
-<a target="_blank" href="https://www.linkedin.com/in/amit-kumar-shaw-48376b147/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:shawamit393@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/jasmeet-kaur-a6a0881bb/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:jassi2231ss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="#"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <br>
 </p>
