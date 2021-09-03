@@ -1,4 +1,4 @@
-<h1><p align="center">Hello, I'm Jasmeet Kaur img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+<h1><p align="center">Hello, I'm Jasmeet Kaur <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 <h3 align="center">A Proud Indian | Computer Science Engineer </h3>
 
 <p align="right">
