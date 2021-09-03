@@ -26,9 +26,9 @@
                 width="28" /> My Github Stats</h2> </summary>
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitkumarshaw393&show_icons=true&locale=en&layout=compact" alt="amitkumarshaw393" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jassi2231ss&show_icons=true&locale=en&layout=compact" alt="jassi2231ss" /></p>
 <p align = "right">
-  <img src = "https://github-readme-stats.vercel.app/api?username=amitkumarshaw393&show_icons=true&locale=en" alt="amitkumarshaw393">
+  <img src = "https://github-readme-stats.vercel.app/api?username=jassi2231ss&show_icons=true&locale=en" alt="jassi2231ss">
   
 </p>
 <p align = "center"><a href="#"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="" /></a></p><br><br>
