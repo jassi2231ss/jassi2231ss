@@ -14,10 +14,10 @@
                 width="28" /> What I currently do</h2></summary>
 
 - 🔭 I'm working on some secret stuff.
-- 🌱 I’m currently learning React and ES6.
+- 🌱 I’m currently learning Web Development
 - 💼 I’m pursuing a Bachelor's degree in Computer Science & Engineering.
 - 👯 I’m looking for challenges.
-- 🤔 I’m looking for help with React.
+- 🤔 I love working on JAVA.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [jassi2231ss@gmail.com](mailto:jassi2231s@gmail.com).
 
